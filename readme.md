@@ -36,7 +36,19 @@ Laboratorio 1:
 -Se utilizó la barra invertida (`\`) para escapar las comillas dobles dentro de la cadena, permitiendo que se impriman correctamente en la consola.
 -Se observó cómo Python permite mostrar comillas dobles en la salida usando el carácter de escape, por ejemplo:  
   `print("\"Estoy\"\"\"aprendiendo\"\"\"\"\"Python\"\"\"")`
--Esta técnica es útil cuando se necesita mostrar comillas dobles como parte del texto
+-Esta técnica es útil cuando se necesita mostrar comillas dobles como parte del texto.
+
+Seccion 3
+
+Laboratorio 1:
+
+Laboratorio 1:
+
+-Se resolvieron ejercicios prácticos para comprender el uso de operadores aritméticos en Python y el orden de precedencia.
+-Cada ejercicio muestra una expresión matemática, su resultado en consola y una explicación paso a paso de cómo Python evalúa la expresión.
+-Se utilizaron operadores como suma (+), resta (-), multiplicación (*), división (/), potencia (**), módulo (%) y paréntesis para agrupar operaciones.
+-Se explicó cómo primero se resuelven las potencias y paréntesis, luego multiplicaciones/divisiones y finalmente sumas/restas.
+-Esta práctica ayuda a entender cómo Python interpreta y resuelve expresiones matemáticas complejas, mostrando el resultado de
 
 
 
