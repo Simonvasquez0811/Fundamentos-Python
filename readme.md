@@ -25,7 +25,20 @@ Laboratorio 3:
   - Imprimir sin comillas (provoca error de sintaxis).
   - Usar print sin paréntesis (provoca error de sintaxis en Python 3).
   - Escribir Print con mayúscula (provoca NameError).
--Se mostró la forma correcta de imprimir cada línea de la figura usando comillas simples y la función
+-Se mostró la forma correcta de imprimir cada línea de la figura usando comillas simples y la función.
+
+
+Seccion 2
+
+Laboratorio 1:
+
+-Se realizó un ejemplo de impresión de cadenas que contienen comillas dobles dentro del texto.
+-Se utilizó la barra invertida (`\`) para escapar las comillas dobles dentro de la cadena, permitiendo que se impriman correctamente en la consola.
+-Se observó cómo Python permite mostrar comillas dobles en la salida usando el carácter de escape, por ejemplo:  
+  `print("\"Estoy\"\"\"aprendiendo\"\"\"\"\"Python\"\"\"")`
+-Esta técnica es útil cuando se necesita mostrar comillas dobles como parte del texto
+
+
 
 
 
