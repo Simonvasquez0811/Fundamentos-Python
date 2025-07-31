@@ -8,6 +8,9 @@ print(Simon);
 #El error que aparece es que "Simon" no esta definido.
 
 print "Simon"
-#El error que aparece es que las declaraciones deben ir separadas por nuevas lineas o punto y coma
+#SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+
+print ('simon');
+#se hizo un print con comillas simples y al ejecutarlo funciono
 
 
